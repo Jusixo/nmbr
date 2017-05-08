@@ -42,7 +42,7 @@ end
 
 
 if numbers.include?(@answer)
-  puts "don't be a jackass"
+  puts "please do not repeat after me"
 end
 
 
